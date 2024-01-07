@@ -1,5 +1,7 @@
 # Create a Custom Countdown
 
+A simple countdown web application created using HTML, CSS, and JavaScript.
+
 ## Overview
 - This is an application that enables users to create personalized countdowns for various events or occasion.
 - With features like customizable title, input date, local storage functionality, countdown resetting, and the ability to initiate a new countdown.
